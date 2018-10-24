@@ -2,8 +2,9 @@
 Testlet is a Ruby on Rails based website, it targets for managing all kinds of tests, the name is inspired by Servlet, Portalet, Kubelet and most importantly Quizlet, besides coincidently I found out my first Github project name is “test”.
 
 ## Motivation
-* Manage various tests for effecient learning 
-* Refresh my techie brain to be latest with Rails, Docker and 
+* Build a tool for managing various tests for effecient learning 
+* Refresh my techie brain with latest techniques including Rails, Docker, K8S and etc
+* Githubing and blogging
 
 ## Roadmap
 ### Milestone 1
