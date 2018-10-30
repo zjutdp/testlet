@@ -17,3 +17,4 @@ Bootstrap a Rails 5.2 based website and package it into a docker-compose based a
 ## Notes
 ### Rails
 * rails g model single_choice content:text, choice0:string, choice1:string, choice2:string choice3:string, answer:integer --force
+* rails g controller SingleChocies
